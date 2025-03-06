@@ -11,7 +11,8 @@ This project is a **Password Strength Meter** with an integrated **Random Passwo
 ✅ **Random Password Generator** – Creates secure passwords with required complexity.  
 ✅ **Password History** – Displays the last 10 checked passwords.  
 ✅ **User-Friendly UI** – Built with **Streamlit** for an interactive experience.
-c
+
+
 ## 🛠️ Technologies Used
 
 - **Python** – Core programming language
